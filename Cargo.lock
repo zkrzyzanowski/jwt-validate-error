@@ -67,7 +67,6 @@ version = "0.1.0"
 dependencies = [
  "jsonwebtoken",
  "serde",
- "serde_json",
 ]
 
 [[package]]
